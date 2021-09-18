@@ -17,3 +17,5 @@ Ben Laurie is a Director of Capabilities Limited, and also technical lead in sec
 ## Projects
 
 Capabilities Limited has contracted with a number of major tech companies to support their use of open-source software for security, and has recently completed a research and development project for UK Research and Innovation as part of the Digital Security by Design programme.
+
+ * [Assessing the Viability of an Open- Source CHERI Desktop Software Ecosystem (Public Final Report)](pdfs/20210917-capltd-cheri-desktop-report-version1-FINAL.pdf) (17 September 2021)
